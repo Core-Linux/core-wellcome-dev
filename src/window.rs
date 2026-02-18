@@ -194,7 +194,7 @@ impl HelloWindow {
         .translator_credits("translator-credits")
         .copyright("2021-2026 EosOS Linux team")
         .license_type(gtk::License::Gpl30)
-        .website("https://github.com/eoslinux/eos-wellcome")
+        .website("https://eososlinux.github.io/")
         .website_label("GitHub")
         .build();
 

@@ -19,9 +19,17 @@ window {
     transition: border 100ms ease-in-out;
     padding: 10px 30px;
     border: none;
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 5px;
+}
+
+.homepage button:hover {
+    border: 1px solid black;
 }
 
 .aboutdialog {
     border-radius: 7px;
+}
+
+#autostartlabel {
+    font-size: 10px;
 }

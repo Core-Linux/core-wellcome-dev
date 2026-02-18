@@ -33,7 +33,7 @@ along with eos-wellcome.  If not, see <http://www.gnu.org/licenses/>.
   <object class="GtkImage" id="discord_img">
     <property name="visible">True</property>
     <property name="can-focus">False</property>
-    <property name="icon-name">discord</property>
+    <property name="file">data/img/discord.png</property>
   </object>
   <object class="GtkImage" id="github_img">
     <property name="visible">True</property>
@@ -171,7 +171,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
               <object class="GtkButton" id="release">
                 <property name="label" translatable="yes">Release info</property>
                 <property name="name">release</property>
-                <property name="visible">True</property>
+                <property name="visible">false</property>
                 <property name="can-focus">False</property>
                 <property name="receives-default">True</property>
                 <property name="always-show-image">True</property>
@@ -233,7 +233,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
               <object class="GtkButton" id="software">
                 <property name="label" translatable="yes">Software</property>
                 <property name="name">software</property>
-                <property name="visible">True</property>
+                <property name="visible">false</property>
                 <property name="can-focus">False</property>
                 <property name="receives-default">True</property>
                 <property name="tooltip-text" translatable="yes">Web resource</property>
@@ -249,7 +249,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
               <object class="GtkButton" id="development">
                 <property name="label" translatable="yes">Development</property>
                 <property name="name">development</property>
-                <property name="visible">True</property>
+                <property name="visible">false</property>
                 <property name="can-focus">False</property>
                 <property name="receives-default">True</property>
                 <property name="tooltip-text" translatable="yes">Web resource</property>
@@ -326,7 +326,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
                 </child>
                 <child>
                   <object class="GtkLabel" id="autostartlabel">
-                    <property name="visible">True</property>
+                    <property name="visible">false</property>
                     <property name="can-focus">False</property>
                     <property name="halign">end</property>
                     <property name="valign">center</property>
@@ -445,7 +445,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
                     <property name="width-request">30</property>
                     <property name="height-request">30</property>
                     <property name="name">forum</property>
-                    <property name="visible">True</property>
+                    <property name="visible">true</property>
                     <property name="can-focus">False</property>
                     <property name="receives-default">True</property>
                     <property name="image">discord_img</property>
