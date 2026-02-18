@@ -66,7 +66,7 @@ button-software-label = תוכנה
 button-donate-label = תרומה
 button-forum-label = Discord
 button-installer-label = הפעלת תוכנית ההתקנה
-button-involved-label = Discord
+button-involved-label = תמיכה
 button-readme-label = לקרוא אותי
 button-release-info-label = מידע על הגרסה
 button-wiki-label = ויקי
@@ -91,4 +91,5 @@ appbrowser-label = התקנת יישומים
 launch-start-label = Developed by CachyOS
 welcome-title = ברוך בואך אל EosOS Linux!
 welcome-body =
-    תודה שהצטרפת! אנחנו, מפתחי EosOS Linux, מקדמים אותך בברכה. הקישורים הבאים יעזרו לך עם מערכת ההפעלה החדשה שלך.
+    תודה שהצטרפת!
+    אנחנו, מפתחי EosOS Linux, מקדמים אותך בברכה. הקישורים הבאים יעזרו לך עם מערכת ההפעלה החדשה שלך.

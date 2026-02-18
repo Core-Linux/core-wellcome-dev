@@ -64,7 +64,7 @@ button-software-label = تطبيق
 button-donate-label = تبرع
 button-forum-label = Discord
 button-installer-label = شغل المثبت
-button-involved-label = Discord
+button-involved-label = دعم
 button-readme-label = اقرأني
 button-release-info-label = معلومات الإصدار
 button-wiki-label = ويكي
@@ -89,4 +89,5 @@ appbrowser-label = ثبّت تطبيقات
 launch-start-label = Developed by CachyOS
 welcome-title = مرحبًا بك في كاشي أو إس!
 welcome-body =
-    شكراً لانضمامك! نحن، مطورو EosOS Linux، نرحب بك. الروابط أدناه ستساعدك في نظام التشغيل الجديد.
+    شكراً لانضمامك!
+    نحن، مطورو EosOS Linux، نرحب بك. الروابط أدناه ستساعدك في نظام التشغيل الجديد.

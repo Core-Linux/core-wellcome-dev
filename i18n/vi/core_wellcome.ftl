@@ -65,7 +65,7 @@ button-software-label = Phần mềm
 button-donate-label = ủng hộ
 button-forum-label = Discord
 button-installer-label = mở phần mềm cài đặt
-button-involved-label = Discord
+button-involved-label = Hỗ trợ
 button-readme-label = Đọc tôi
 button-release-info-label = Thông tin bản phát hành
 button-wiki-label = Wiki
@@ -90,4 +90,5 @@ appbrowser-label = Cài đặt phần mềm
 launch-start-label = Developed by CachyOS
 welcome-title = Chào mừng tới EosOS Linux!
 welcome-body =
-    Cảm ơn bạn đã tham gia! Chúng tôi, những người phát triển EosOS Linux, xin chào mừng bạn. Các đường dẫn dưới đây sẽ giúp bạn với hệ điều hành mới.
+    Cảm ơn bạn đã tham gia!
+    Chúng tôi, những người phát triển EosOS Linux, xin chào mừng bạn. Các đường dẫn dưới đây sẽ giúp bạn với hệ điều hành mới.

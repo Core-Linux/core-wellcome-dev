@@ -184,14 +184,14 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
             <child>
               <object class="GtkButton" id="wiki">
                 <property name="label" translatable="yes">Wiki</property>
-                <property name="name">wiki</property>
+                <property name="name">github</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
                 <property name="receives-default">True</property>
                 <property name="tooltip-text" translatable="yes">Web resource</property>
                 <property name="image-position">right</property>
                 <property name="always-show-image">True</property>
-                <signal name="clicked" handler="on_btn_clicked" swapped="no"/>
+                <signal name="clicked" handler="on_link_clicked" swapped="no"/>
               </object>
               <packing>
                 <property name="left-attach">0</property>
@@ -200,7 +200,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
             </child>
             <child>
               <object class="GtkButton" id="involved">
-                <property name="label" translatable="yes">Get involved</property>
+                <property name="label" translatable="yes">Support</property>
                 <property name="name">involved</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
@@ -214,7 +214,7 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
             </child>
             <child>
               <object class="GtkButton" id="forum">
-                <property name="label" translatable="yes">Discord</property>
+                <property name="label" translatable="yes">Support</property>
                 <property name="name">forum</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
@@ -439,10 +439,12 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
                 <property name="can-focus">False</property>
                 <property name="halign">center</property>
                 <property name="valign">end</property>
-                <property name="spacing">10</property>
+                <property name="spacing">2</property>
                 <child>
                   <object class="GtkButton" id="discord_btn">
-                    <property name="name">discord</property>
+                    <property name="width-request">30</property>
+                    <property name="height-request">30</property>
+                    <property name="name">forum</property>
                     <property name="visible">True</property>
                     <property name="can-focus">False</property>
                     <property name="receives-default">True</property>
@@ -458,6 +460,8 @@ We, the EosOS Linux Developers, hope that you will enjoy using EosOS Linux as mu
                 </child>
                 <child>
                   <object class="GtkButton" id="github_btn">
+                    <property name="width-request">30</property>
+                    <property name="height-request">30</property>
                     <property name="name">github</property>
                     <property name="visible">True</property>
                     <property name="can-focus">False</property>

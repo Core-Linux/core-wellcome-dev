@@ -60,8 +60,11 @@ impl HelloWindow {
             let base_name = name.strip_suffix("_btn").unwrap_or(&name);
             let icon_path = format!("{RESPREFIX}/data/img/{base_name}.png");
             let image_id = format!("{}_img", base_name);
-            let image: gtk::Image = builder.object(image_id.as_str()).unwrap();
-            image.set_from_resource(Some(&icon_path));
+            // let image: gtk::Image = builder.object(image_id.as_str()).unwrap();
+            // image.set_from_resource(Some(&icon_path));
+            if let Some(image) = builder.object::<gtk::Image>(image_id.as_str()) {
+               image.set_from_resource(Some(&icon_path));
+            }
         }
 
         let homepage_grid: gtk::Grid = builder.object("homepage").unwrap();
@@ -174,8 +177,8 @@ impl HelloWindow {
     }
 
     pub fn show_about_dialog(&self) {
-        let logo_path = format!("/usr/share/icons/hicolor/scalable/apps/{APP_ID}.svg");
-        let logo = Pixbuf::from_file(logo_path).unwrap();
+        // let logo_path = format!("/usr/share/icons/hicolor/scalable/apps/{APP_ID}.svg");
+        // let logo = Pixbuf::from_file(logo_path).unwrap();
 
         let dialog = gtk::AboutDialog::builder()
         .transient_for(&self.window)
@@ -183,7 +186,7 @@ impl HelloWindow {
         .program_name(GString::from_string_unchecked(crate::fl!("about-dialog-title")))
         .comments(GString::from_string_unchecked(crate::fl!("about-dialog-comments")))
         .version(VERSION)
-        .logo(&logo)
+        // .logo(&logo)
         .authors(vec![
             "Vladislav Nepogodin".to_owned(),
         ])

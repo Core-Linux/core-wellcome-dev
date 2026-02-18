@@ -42,7 +42,7 @@ button-software-label = Software
 button-donate-label = Spenden
 button-forum-label = Discord
 button-installer-label = Installation starten
-button-involved-label = Discord
+button-involved-label = Unterstützung
 button-readme-label = Lies mich
 button-release-info-label = Versionshinweise
 button-wiki-label = Wiki
@@ -63,4 +63,5 @@ appbrowser-label = Apps installieren
 launch-start-label = Entwickelt von CachyOS
 welcome-title = Willkommen bei EosOS Linux!
 welcome-body =
-    Danke, dass du uns beigetreten bist! Wir, die EosOS Linux-Entwickler, heißen dich willkommen. Die Links unten werden dir bei deinem neuen Betriebssystem helfen.
+    Danke, dass du uns beigetreten bist!
+    Wir, die EosOS Linux-Entwickler, heißen dich willkommen. Die Links unten werden dir bei deinem neuen Betriebssystem helfen.

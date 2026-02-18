@@ -64,7 +64,7 @@ button-software-label = 소프트웨어
 button-donate-label = 후원하기
 button-forum-label = Discord
 button-installer-label = 설치 프로그램 시작
-button-involved-label = Discord
+button-involved-label = 지원
 button-readme-label = Read me
 button-release-info-label = 릴리스 정보
 button-wiki-label = Wiki
@@ -89,4 +89,5 @@ appbrowser-label = 앱 설치
 launch-start-label = Developed by CachyOS
 welcome-title = EosOS Linux에 오신 것을 환영합니다!
 welcome-body =
-    참여해 주셔서 감사합니다! EosOS Linux 개발팀이 당신을 환영합니다. 아래 링크들은 새로운 운영 체제에 도움이 될 것입니다.
+    참여해 주셔서 감사합니다!
+    EosOS Linux 개발팀이 당신을 환영합니다. 아래 링크들은 새로운 운영 체제에 도움이 될 것입니다.

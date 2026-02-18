@@ -58,7 +58,7 @@ button-software-label = Programari
 button-donate-label = Feu una donació
 button-forum-label = Discord
 button-installer-label = Inicia'n l'instal·lador
-button-involved-label = Discord
+button-involved-label = Assistència
 button-readme-label = Llegiu-me
 button-release-info-label = Informació de la versió
 button-wiki-label = Wiki
@@ -83,4 +83,5 @@ appbrowser-label = Instal·leu apliacions
 launch-start-label = Developed by CachyOS
 welcome-title = Us donem la benvinguda al EosOS Linux!
 welcome-body =
-    Gràcies per unir-te! Nosaltres, els desenvolupadors d'EosOS Linux, et donem la benvinguda. Els enllaços següents t'ajudaran amb el teu nou sistema operatiu.
+    Gràcies per unir-te!
+    Nosaltres, els desenvolupadors d'EosOS Linux, et donem la benvinguda. Els enllaços següents t'ajudaran amb el teu nou sistema operatiu.

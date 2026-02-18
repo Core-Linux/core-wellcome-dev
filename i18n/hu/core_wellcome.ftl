@@ -65,7 +65,7 @@ button-software-label = Szoftver
 button-donate-label = Adományozás
 button-forum-label = Discord
 button-installer-label = Telepítő indítása
-button-involved-label = Discord
+button-involved-label = Támogatás
 button-readme-label = Olvass el
 button-release-info-label = Kiadási információk
 button-wiki-label = Wiki
@@ -90,4 +90,5 @@ appbrowser-label = Alkalmazások telepítése
 launch-start-label = Developed by CachyOS
 welcome-title = Üdvözlünk a EosOS Linux-ban!
 welcome-body =
-    Köszi, hogy csatlakoztál! Mi, a EosOS Linux fejlesztői üdvözölünk. Az alábbi linkek segítenek az új operációs rendszerrel.
+    Köszi, hogy csatlakoztál!
+    Mi, a EosOS Linux fejlesztői üdvözölünk. Az alábbi linkek segítenek az új operációs rendszerrel.

@@ -65,7 +65,7 @@ button-software-label = Yazılım
 button-donate-label = Bağış yap
 button-forum-label = Discord
 button-installer-label = Kurucuyu başlat
-button-involved-label = Discord
+button-involved-label = Destek
 button-readme-label = Beni oku
 button-release-info-label = Sürüm bilgisi
 button-wiki-label = Viki
@@ -90,4 +90,5 @@ appbrowser-label = Uygulama kur
 launch-start-label = Developed by CachyOS
 welcome-title = EosOS Linux'e Hoş Geldiniz!
 welcome-body =
-    Aramıza katıldığınız için teşekkür ederiz! EosOS Linux Geliştirici Ekibi olarak size hoş geldiniz diyoruz. Aşağıdaki bağlantılar, yeni işletim sisteminiz konusunda size yardımcı olacaktır.
+    Aramıza katıldığınız için teşekkür ederiz!
+    EosOS Linux Geliştirici Ekibi olarak size hoş geldiniz diyoruz. Aşağıdaki bağlantılar, yeni işletim sisteminiz konusunda size yardımcı olacaktır.

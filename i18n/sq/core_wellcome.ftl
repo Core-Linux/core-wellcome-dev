@@ -64,7 +64,7 @@ button-software-label = Softuer
 button-donate-label = Dhuro
 button-forum-label = Discord
 button-installer-label = Fillo instaluesin
-button-involved-label = Discord
+button-involved-label = Mbështetje
 button-readme-label = Udhëzuesi
 button-release-info-label = Informacion i versionit
 button-wiki-label = Wiki
@@ -89,4 +89,5 @@ appbrowser-label = Instalo Aplikacione
 launch-start-label = Developed by CachyOS
 welcome-title = Mirë se vini në EosOS Linux!
 welcome-body =
-    Faleminderit që iu bashkuat! Ne, zhvilluesit e EosOS Linux, ju përshëndesim. Vegëzat më poshtë do t’ju ndihmojnë me sistemin tuaj të ri operativ.
+    Faleminderit që iu bashkuat!
+    Ne, zhvilluesit e EosOS Linux, ju përshëndesim. Vegëzat më poshtë do t’ju ndihmojnë me sistemin tuaj të ri operativ.

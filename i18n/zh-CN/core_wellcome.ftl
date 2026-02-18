@@ -53,7 +53,7 @@ button-software-label = 软件
 button-donate-label = 捐献
 button-forum-label = Discord
 button-installer-label = 启动安装程序
-button-involved-label = Discord
+button-involved-label = 支持
 button-readme-label = 阅读我
 button-release-info-label = Release 信息
 button-wiki-label = Wiki
@@ -74,4 +74,5 @@ appbrowser-label = 安装应用
 launch-start-label = 由 CachyOS 开发
 welcome-title = 欢迎使用 EosOS Linux！
 welcome-body =
-    感谢您的加入！我们是EosOS Linux开发人员，欢迎您。以下链接将帮助您使用新的操作系统。
+    感谢您的加入！
+    我们是EosOS Linux开发人员，欢迎您。以下链接将帮助您使用新的操作系统。

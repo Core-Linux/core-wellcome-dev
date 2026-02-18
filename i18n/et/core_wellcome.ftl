@@ -63,7 +63,7 @@ button-software-label = Tarkvara
 button-donate-label = Anneta
 button-forum-label = Discord
 button-installer-label = Käivita paigaldaja
-button-involved-label = Discord
+button-involved-label = Toetus
 button-readme-label = Loe mind
 button-release-info-label = Väljalaske info
 button-wiki-label = Viki
@@ -88,4 +88,5 @@ appbrowser-label = Paigalda rakendusi
 launch-start-label = Developed by CachyOS
 welcome-title = Tere tulemast EosOS Linux-i!
 welcome-body =
-    Täname, et liitusite! Meie, EosOS Linux-i arendajad, tervitame teid. Allolevad lingid aitavad teil oma uue operatsioonisüsteemiga.
+    Täname, et liitusite!
+    Meie, EosOS Linux-i arendajad, tervitame teid. Allolevad lingid aitavad teil oma uue operatsioonisüsteemiga.
