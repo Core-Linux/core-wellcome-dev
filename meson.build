@@ -1,4 +1,4 @@
-project('cachyos-hello', 'rust',
+project('core-hello', 'rust',
         version: '0.19.2',
         license: 'GPLv3',
         meson_version: '>=0.56.0',
