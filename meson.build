@@ -1,4 +1,4 @@
-project('core-hello', 'rust',
+project('core-wellcome', 'rust',
         version: '0.19.2',
         license: 'GPLv3',
         meson_version: '>=0.56.0',
